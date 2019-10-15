@@ -1,0 +1,12 @@
+Current Cases Dashboard
+Purpose: Give an overview of my current cases. 
+
+v1 contains:
+[Tables]
+Cases Touched by Case Status for Today and Yesterday
+Beginning Case Counts for Today and Yesterday 
+Bugs by Team for Today and Yesterday
+
+[views]
+Case Status as Percentage of Workload Today
+Development Cases Today compared to Yesterday
