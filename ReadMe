@@ -16,3 +16,18 @@ v2 contains:
 [Tables]
 Today moved to separate sheet.
 Yesterday moved to separate sheet. 
+
+[Formulas]
+Updated to calculate from tables in separate sheet. Eventually will be table joins once the database is created. 
+
+
+[Needs]
+Database
+
+
+[Errors]
+I43-46 in the yesterday formula. 
+
+[Removed]
+Yesterday and Today tables from Current Cases Dashboard
+Visual dashboard. 
