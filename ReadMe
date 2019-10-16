@@ -31,3 +31,14 @@ I43-46 in the yesterday formula.
 [Removed]
 Yesterday and Today tables from Current Cases Dashboard
 Visual dashboard. 
+
+v3 contains: 
+
+[Tables]
+Updated Primary View name to Cases Index. 
+
+[Formulas]
+Added formula to calculate cases not touched. 
+
+[Variables]
+Added Not Touched 
