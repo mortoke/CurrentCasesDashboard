@@ -1,0 +1,4 @@
+###Formula Updates 
+
+On November 5 the Daily Report was discovered to have thecalculations for the beginning case counts linked to the archives table. This was updated. 
+The formula was updated to be linked to the Yesterday table as planned. The table is now calculating from the correct source. 
